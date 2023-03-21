@@ -8,7 +8,7 @@
 int main(void)
 {
     /* Print _putchar using two _putchar calls */
-	_putchar('_);
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
