@@ -1,23 +1,23 @@
 #include "main.h"
-/**
- * main calss the putchar functions 
- * _putchar - writes the character c to stdout
- * @c: The character to print
- *main calls the putchar functuiobs
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
- */
 
+/**
+ * main - Entry point of the program
+ *
+ * Return: 0 on success
+ */
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
-	return (0);
+    /* Print _putchar using two _putchar calls */
+    _putchar('_');
+    _putchar('p');
+    _putchar('u');
+    _putchar('t');
+    _putchar('c');
+    _putchar('h');
+    _putchar('a');
+    _putchar('r');
+    /* Print newline character using one _putchar call */
+    _putchar('\n');
+
+    return (0); /* Indicate successful completion of the program */
 }
