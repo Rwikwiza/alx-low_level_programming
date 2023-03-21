@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+ * main calss the putchar functions 
  * _putchar - writes the character c to stdout
  * @c: The character to print
  *main calls the putchar functuiobs
