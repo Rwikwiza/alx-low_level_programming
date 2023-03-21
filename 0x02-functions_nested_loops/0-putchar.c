@@ -17,7 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
     /* Print newline character using one _putchar call */
-    _putchar('\n');
-
-    return (0); /* Indicate successful completion of the program */
+	_putchar('\n');
+	return (0); /* Indicate successful completion of the program */
 }
