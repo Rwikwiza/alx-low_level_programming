@@ -1,10 +1,10 @@
 #include "lists.h"
 
-/** 
+/**
  * add_nodeint - add a new mode at the benining
  * of linked list
  * @head: head of list.
- * @h: n element.
+ * @n: n element.
  *
  * Return: Address of the new element. If it fails NULL
  */
