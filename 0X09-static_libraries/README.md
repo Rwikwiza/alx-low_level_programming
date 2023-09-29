@@ -1,1 +1,1 @@
-create static libraries
+creating C Libraries
